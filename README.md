@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Gitmazter. A blockchain development student at Medieinstitutet, Sweden
+Jag bor I Vietnam och älskar hip-hop och motorcyklar. 
+
+-👋 Hi, I’m @Gitmazter. A blockchain development student at Medieinstitutet, Sweden
 - 👀 I’m interested in coding for Blockchain 
 - 🌱 I’m currently learning HTML, CSS, JS, NODEJS, REACT, RUST, C
 - 💞️ I’m looking to collaborate on anything you want. Here to learn and play. 
