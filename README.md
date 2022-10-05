@@ -1,5 +1,3 @@
-Jag bor I Vietnam och älskar hip-hop och motorcyklar. 
-
 - 👋 Hi, I’m @Gitmazter. A blockchain development student at Medieinstitutet, Sweden
 - 👀 I’m interested in coding for Blockchain 
 - 🌱 I’m currently learning HTML, CSS, JS, NODEJS, REACT, RUST, C, SOLIDITY
