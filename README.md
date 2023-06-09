@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gitmazter. A blockchain development student at Medieinstitutet, Sweden
 - 👀 I’m interested in coding for Blockchain 
 - ✅ - I can confidently write in : NODEJS, REACT(html, css/sass/, jsx/js), PYTHON, 
-- 🌱 I’m currently learning RUST, SOLIDITY
+- 🌱 I’m currently learning RUST, SOLIDITY, TYPESCRIPT
 
 <!---
 Gitmazter/Gitmazter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
